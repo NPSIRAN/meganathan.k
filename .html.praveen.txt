@@ -1,0 +1,17 @@
+<html>
+<head>
+<script type="text/javascript">
+var d=new Date();
+var weekday=new
+arrays"("Sunday","Monday","Tuesday","Wednesday","thursday","Friday","Saturday);
+var monthname=new
+array("jan",Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec");
+document.write(weekday[d.getDay()]+"");
+document.write(D.getdate()+".");
+document.write(monthname[d.getMonth()]+"");
+document.write(write(d.getFullYear());;
+</script>
+</head>
+<body>
+</body>
+</html>
